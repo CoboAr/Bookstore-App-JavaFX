@@ -1,0 +1,3 @@
+Arnold/arnold/1001
+Trudeau/canada/1000
+test/test/800
